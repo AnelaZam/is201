@@ -1,0 +1,38 @@
+body{font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(../assets/img/httyd.jfif); /*path to  image */
+    background-color:black; /* General color for the rest of the background */
+    background-size: cover; /* Entire background */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Fixed position */
+   
+    background-position: center; /* Position the background image at the top center */
+    height: 100vh; /* Height of the body 100% */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    
+}
+.outlined-tex {
+    
+    text-shadow: 
+        -1px -1px 0 #f7f7f7,  
+         1px -1px 0 #f7f7f7,
+        -1px  1px 0 #f7f7f7,
+         1px  1px 0 #f7f7f7; /* Create the outline effect */
+}
+.big{
+    font-size: 30px;
+}
+.new{
+    padding: 5px;
+    top:1px;
+}
+   a
+   {
+     color:rgb(6, 161, 11);
+     text-shadow: 
+     -1px -1px 0 #1178abbd,  
+      1px -1px 0 #1178abbd,
+     -1px  1px 0 #1178abbd,
+      1px  1px 0 #1178abbd; /*Outline effect */}
+   
+  
